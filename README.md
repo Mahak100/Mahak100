@@ -8,6 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://xd.adobe.com/ideas/wp-content/uploads/2021/07/1617979191-8.gif">
 
 <h3 align="left">About me:</h3>
+
 - 🔭 I have completed my graduation in B.Sc. (Hons.) Computer Science from University of Delhi.
 
 - 🌱 I’m currently learning **Web Development**
