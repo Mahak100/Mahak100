@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mahak Garg</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h2 align="center">A Passionate Frontend Developer from India</h2>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mahak100&label=Profile%20views&color=0e75b6&style=flat" alt="mahak100"/> 
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://xd.adobe.com/ideas/wp-content/uploads/2021/07/1617979191-8.gif">
+
+<h3 align="left">About me:</h3>
+- 🔭 I have completed my graduation in B.Sc. (Hons.) Computer Science from University of Delhi.
+
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **mahak100garg20@gmail.com**
+- 📫 Reach me @ **mahak100garg20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,14 +52,16 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahak100&show_icons=true&locale=en&layout=compact" alt="mahak100"/>
+<h3 align="left">Most Used Languages:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahak100&show_icons=true&locale=en&layout=compact" alt="mahak100"/>
+  </a>
 </p>
 
-<p>&nbsp;
+<h3 align="left">Github Stats:</h3>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahak100&show_icons=true&locale=en" alt="mahak100"/>
-</p>
-
-<p>
+  <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak100&" alt="mahak100"/>
 </p>
+
