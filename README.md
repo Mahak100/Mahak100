@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mahak100&label=Profile%20views&color=0e75b6&style=flat" alt="mahak100"/> 
 </p>
 
-<img align="right" alt="Coding" width="400" margin="5px" src="https://xd.adobe.com/ideas/wp-content/uploads/2021/07/1617979191-8.gif">
+<img align="right" alt="Coding" width="400" src="https://xd.adobe.com/ideas/wp-content/uploads/2021/07/1617979191-8.gif">
 
 <h3 align="left">About me:</h3>
 - 🔭 I have completed my graduation in B.Sc. (Hons.) Computer Science from University of Delhi.
